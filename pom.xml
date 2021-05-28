@@ -17,7 +17,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <!-- Tell Maven to treat all source files as UTF-8 -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-         <sonar.host.url>http://65.2.4.89:9000/</sonar.host.url>
+         <sonar.host.url>http://13.233.154.124:9000/</sonar.host.url>
 	<sonar.login>admin</sonar.login>
 	<sonar.password>admin</sonar.password>     
     </properties>
